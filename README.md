@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Innerv here, I like android and shell scripts.
+I love lemon.
